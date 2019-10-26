@@ -1,4 +1,4 @@
-update=10/26/19 03:08:03
+update=10/26/19 22:46:58
 version=1
 last_client=kicad
 [general]
@@ -248,6 +248,17 @@ dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/2]
+Name=LED_pwr
+Clearance=0.2
+TrackWidth=0.381
+ViaDiameter=0.8
+ViaDrill=0.4
+uViaDiameter=0.3
+uViaDrill=0.1
+dPairWidth=0.2
+dPairGap=0.25
+dPairViaGap=0.25
+[pcbnew/Netclasses/3]
 Name=Power
 Clearance=0.2
 TrackWidth=0.381
